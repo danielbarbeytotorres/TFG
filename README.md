@@ -1,2 +1,5 @@
 # TFG
-Proyecto de SecOps autónomo. Orquestación de la detección (OpenVAS) y la remediación activa en hosts Linux. Demostración de viabilidad económica con la API de OpenAI.
+Título: Automatización de la mitigación de vulnerabilidades mediante OpenVAS y modelos de lenguaje
+
+Nombre del autor principal: Daniel Barbeyto Torres
+Dirección: Adrián Carballal Mato
